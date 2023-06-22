@@ -8,4 +8,4 @@
     - Python
 
 ### Demo 
-     - see savorysearch.mp4 in repo
+     - see savorysearch.mp4 within the demo folder in repo
